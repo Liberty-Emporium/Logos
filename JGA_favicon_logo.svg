@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="48" fill="#111827"/>
+  <circle cx="128" cy="128" r="96" fill="none" stroke="#C9A227" stroke-width="8"/>
+  <!-- scales of justice -->
+  <path d="M128 66v104" stroke="#C9A227" stroke-width="8" stroke-linecap="round"/>
+  <path d="M82 92h92" stroke="#C9A227" stroke-width="7" stroke-linecap="round"/>
+  <path d="M92 92l-22 42h44z" fill="none" stroke="#C9A227" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M164 92l-22 42h44z" fill="none" stroke="#C9A227" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M108 177h40" stroke="#C9A227" stroke-width="8" stroke-linecap="round"/>
+  <path d="M118 166h20" stroke="#C9A227" stroke-width="7" stroke-linecap="round"/>
+  <!-- JGA -->
+  <text x="128" y="222" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="32" font-weight="700" letter-spacing="5"
+        fill="#FFFFFF">JGA</text>
+</svg>
